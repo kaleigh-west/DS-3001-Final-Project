@@ -77,4 +77,3 @@ This dataset is used in three different modeling approaches:
 
 ## File Format
 - Format: CSV
-- Encoding: UTF-8 
